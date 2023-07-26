@@ -1,0 +1,10 @@
+* cl-bson
+
+BSON encoder/decoder for Common Lisp.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/EuAndreh/cl-bson.git   |
+| commit  | 4854aa9  |
+| systems | cl-bson |
+|---------+-------------------------------------------|
+
